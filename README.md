@@ -191,6 +191,22 @@ result
 ![image](https://github.com/CalebSamraj14/VLSI-LAB-EXP-2/assets/163808923/e04b714a-bc71-40ac-ab2e-031fb5ddfa59)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 RESULT
 
  simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using vivado is verified.
